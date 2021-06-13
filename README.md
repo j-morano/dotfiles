@@ -1,5 +1,5 @@
  
- - **Window Manager**: Qtile
+ - **Window manager**: Qtile
  - **Terminal emulator**: alacritty + tmux
  - **Application launcher**: Rofi
  - **File manager**: Dolphin
