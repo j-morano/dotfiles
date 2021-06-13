@@ -1,0 +1,14 @@
+# /etc/systemd/system/i3lock.service
+
+[Unit]
+Description=i3lock
+Before=sleep.target
+
+[Service]
+User=morano
+Type=forking
+Environment=DISPLAY=:0
+ExecStart=/usr/bin/i3lock -c 333333
+
+[Install]
+WantedBy=sleep.target
