@@ -1,6 +1,6 @@
  
  - **Window manager**: Qtile
- - **Terminal emulator**: alacritty + tmux
+ - **Terminal emulator**: Alacritty + tmux
  - **Application launcher**: Rofi
  - **File manager**: Dolphin
  - **IDE**: PyCharm
